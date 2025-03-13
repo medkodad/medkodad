@@ -1,4 +1,4 @@
-# Hi there 👋  
+# you may be expecting someone to introduce me ... but i'm not like all the other guys . so .. let me introduce myself I'M SK-FRNE 👋  
 
 
 ![Coding](animated-man-computer-coding-nae6mec378lsg1i3.gif)  

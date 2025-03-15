@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 Hello, I'm **SK-FRNE**!  
-I am a passionate **developer and UI/UX designer** with expertise in **C++, mobile development, PHP, Java, and UI/UX design**. My journey in tech has been driven by a love for creating **efficient, user-friendly applications and elegant digital experiences**.  
+I'm a passionate **developer and UI/UX designer** with expertise in **C++, mobile development, PHP, Java, and UI/UX design**. My journey in tech has been driven by a love for creating **efficient, user-friendly applications and elegant digital experiences**.  
 
 ## 🌱 Currently Learning  
 I am continuously expanding my skill set, currently focusing on:  

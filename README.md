@@ -1,10 +1,10 @@
-# you may be expecting someone to introduce me ... but i'm not like all the other guys . so .. let me introduce myself I'M SK-FRNE 👋  
+# you may be expecting someone to introduce me ... but i'm not like all the other guys . so .. let me introduce myself I'M MED 👋  
 
 
 ![Coding](animated-man-computer-coding-nae6mec378lsg1i3.gif)  
 
 ## 🚀 About Me  
-Hello, I'm **SK-FRNE**!  
+Hello, I'm **MED**!  
 I'm a passionate **developer and UI/UX designer** with expertise in **C++, mobile development, PHP, Java, and UI/UX design**. My journey in tech has been driven by a love for creating **efficient, user-friendly applications and elegant digital experiences**.  
 
 ## 🌱 Currently Learning  
